@@ -15,3 +15,4 @@ dependencies:
       # Define pip packages here.
       # https://pypi.org/
       - rpaframework==19.0.0 # https://rpaframework.org/releasenotes.html
+      - datetime
